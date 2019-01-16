@@ -87,6 +87,8 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 A new section to show that I understand this.
 * Bullet 1
 
+![A test image](20171230_175403.jpg)
+
 
 ##  About
 
