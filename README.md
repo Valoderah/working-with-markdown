@@ -86,6 +86,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 A new section to show that I understand this.
 * Bullet 1
+* bullet 2
+
+* [click me](https://www.google.com)
 
 ![A test image](valr.jpg)
 
@@ -95,5 +98,4 @@ A new section to show that I understand this.
 Denise Case
 
 dcase@nwmissouri.edu
-
 
